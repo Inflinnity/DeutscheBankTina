@@ -1,0 +1,14 @@
+
+body{
+    background-image: url(wallpaper.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#openBot {
+    max-width: 100px;
+    height: auto;
+    margin-left: 4%;
+    margin-top: 1%;
+    
+}
